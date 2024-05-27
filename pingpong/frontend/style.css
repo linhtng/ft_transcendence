@@ -30,13 +30,19 @@ body {
     align-items: center;
 }
 
+
 #startButton {
     padding: 10px 20px;
     font-size: 16px;
     margin-bottom: 20px;
     cursor: pointer;
     font-family: 'dancing-script-one', normal;
-    text-shadow: 2px 2px 3px #0af134;
+    background-color: rgb(8, 0, 255);
+    border: none;
+    border-radius: 70px;
+    color: rgb(215, 135, 31);
+    text-shadow: 3px 3px 4px #9d3365;
+    box-shadow: 0 5px #0c0b10;
 }
 
 #pongCanvas {
