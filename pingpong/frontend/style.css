@@ -1,0 +1,62 @@
+
+
+body {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #480af1;
+}
+
+.dancing-script-one
+{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poetsen-one-regular {
+	font-family: "Poetsen One", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+  }
+  
+
+#game-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#startButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    font-family: 'dancing-script-one', normal;
+    text-shadow: 2px 2px 3px #480af1;
+}
+
+#pongCanvas {
+    display: none;
+    border: 3px solid #dd3434;
+}
+h1 {
+	font-family: 'poetsen-one-regular', normal;
+	color: purple;
+	text-shadow: 2px 2px 3px pink;
+	top: 0;
+
+
+}
+#score {
+    color: rgb(230, 13, 13);
+    font-size: 24px;
+    margin-top: 20px;
+}
+img {
+	height: 200px;
+	width: 200px;
+}
