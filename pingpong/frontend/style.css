@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #480af1;
+    background-color: #574e70;
 }
 
 .dancing-script-one
@@ -36,7 +36,7 @@ body {
     margin-bottom: 20px;
     cursor: pointer;
     font-family: 'dancing-script-one', normal;
-    text-shadow: 2px 2px 3px #480af1;
+    text-shadow: 2px 2px 3px #0af134;
 }
 
 #pongCanvas {
@@ -52,11 +52,18 @@ h1 {
 
 }
 #score {
-    color: rgb(230, 13, 13);
-    font-size: 24px;
+    font-family: 'poetsen-one-regular', normal;
+    color: rgb(238, 168, 29);
+    font-size: 15px;
     margin-top: 20px;
+    text-shadow: 1px 1px 2px rgb(206, 21, 52);
+
 }
 img {
-	height: 200px;
-	width: 200px;
+    justify-content: right;
+    align-items: left;
+    margin-left  : 20px;
+    margin : 5px;
+	height: 150px;
+	width: 150px;
 }
