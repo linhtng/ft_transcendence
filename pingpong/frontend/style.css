@@ -60,10 +60,17 @@ h1 {
 
 }
 img {
-    justify-content: right;
-    align-items: left;
     margin-left  : 20px;
-    margin : 5px;
+    margin : 2px;
 	height: 150px;
 	width: 150px;
+}
+.image-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#gato {
+    height: 200px;
+	width: 200px;
 }
