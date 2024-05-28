@@ -85,3 +85,4 @@ __Inspiration__
 - [Agile and Documentation in ft_transcendence](https://medium.com/@glukas94/ft-transcendence-semana-1-3b641e683339)
 - [ft_transcendence Project Architecture Overview](https://github.com/trancendering/ft_transcendence/blob/main/ARCHITECTURE.md)
 - [How the Django-Docker-Frontend system can be connected](https://medium.com/@bekojix0660/42-ft-transcendence-0d952c94ea05)
+- [Architecture & database diagram](https://github.com/zwzone/ft_transcendence)
