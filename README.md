@@ -49,7 +49,7 @@ This group project is about creating a website for the mighty Pong contest!🏓
 
 - Gameplay and user experience:
     - MAYBE 1 Major module: Remote players
-    - MAYBE 1 Major module: Multiplayers (more than 2 in the same game)
+    - UNLIKELY 1 Major module: Multiplayers (2 vs. 2)
 
 - User management
     - MAYBE 1 Auth
@@ -63,9 +63,6 @@ This group project is about creating a website for the mighty Pong contest!🏓
     - MAYBE 0.5 Minor monitoring
     - PROBABLY 1 Major module: Designing the Backend as Microservices
 
-- Graphics
-    - UP TO DIEGO 1 Major module: Use of advanced 3D techniques.
-
 - Accessibility
     - YES 0.5 Minor module: Expanding Browser Compatibility.
     - YES 0.5 Minor module: Multiple language supports.
@@ -76,7 +73,7 @@ This group project is about creating a website for the mighty Pong contest!🏓
 
 YES: 3 backend, database, accessibility
 
-PROBABLY: 1 devops: ELK +  (should only go with proper backend)
+PROBABLY: 1 devops: ELK
 
 MAYBE:
     - 4 Remote + multiplayer + server-side + microservices
