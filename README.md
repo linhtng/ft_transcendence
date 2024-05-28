@@ -40,7 +40,47 @@ This group project is about creating a website for the mighty Pong contest!🏓
 
 - Server-Side Pong
     - Major module: Replacing Basic Pong with Server-Side Pong and Implementing an API
+
+## Features plan C:
+- Web:
+    - YES 1 Major module: Use a Framework as backend
+    - MAYBE 0.5 Minor module: Use a front-end framework or toolkit
+    - YES 0.5 Minor module: Use a database for the backend
+
+- Gameplay and user experience:
+    - MAYBE 1 Major module: Remote players
+    - MAYBE 1 Major module: Multiplayers (more than 2 in the same game)
+
+- User management
+    - MAYBE 1 Auth
+    - MAYBE 1 Remote auth
  
+- AI algo
+    - MAYBE 1 AI opponent
+
+- Devops
+    - PROBABLY 1 Major module: Infrastructure Setup for Log Management
+    - MAYBE 0.5 Minor monitoring
+    - PROBABLY 1 Major module: Designing the Backend as Microservices
+
+- Graphics
+    - UP TO DIEGO 1 Major module: Use of advanced 3D techniques.
+
+- Accessibility
+    - YES 0.5 Minor module: Expanding Browser Compatibility.
+    - YES 0.5 Minor module: Multiple language supports.
+    - YES 0.5 Accessibility
+
+- Server-Side Pong
+    - MAYBE 1 Major module: Replacing Basic Pong with Server-Side Pong and Implementing an API
+
+YES: 3 backend, database, accessibility
+PROBABLY: 1 devops: ELK +  (should only go with proper backend)
+MAYBE:
+    - 4 Remote + multiplayer + server-side + microservices
+    - 2 AI opponent + more devops + bootstrap
+    - 4 Remote auth + remote playing + server-side + microservices
+
 ## Resources
 __Inspiration__
 - [Agile and Documentation in ft_transcendence](https://medium.com/@glukas94/ft-transcendence-semana-1-3b641e683339)
