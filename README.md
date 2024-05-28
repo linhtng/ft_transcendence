@@ -78,7 +78,7 @@ PROBABLY: 1 devops: ELK
 MAYBE:
 - 4 Remote + multiplayer + server-side + microservices
 - 2 AI opponent + more devops + bootstrap
-- 4 Remote auth + remote playing + server-side + microservices
+- + 4 Remote auth + remote playing + server-side + microservices
 
 ## Resources
 __Inspiration__
