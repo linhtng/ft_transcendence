@@ -75,7 +75,9 @@ This group project is about creating a website for the mighty Pong contest!🏓
     - MAYBE 1 Major module: Replacing Basic Pong with Server-Side Pong and Implementing an API
 
 YES: 3 backend, database, accessibility
+
 PROBABLY: 1 devops: ELK +  (should only go with proper backend)
+
 MAYBE:
     - 4 Remote + multiplayer + server-side + microservices
     - 2 AI opponent + more devops + bootstrap
